@@ -1,3 +1,12 @@
+# ARCHIVED
+
+This repository is archived. I am no longer actively developing/supporting it.
+
+If you are interested in discussing the contents of this repository feel free to contact me
+via the contact details provided in the "Author" section below.
+
+---
+
 This repository contains the necessary files to spin up the core microservices for an archival digital repository.
 
 [![Build Status](https://travis-ci.org/bnbalsamo/microservice_repository_orchestration.svg?branch=master)](https://travis-ci.org/bnbalsamo/microservice_repository_orchestration)
